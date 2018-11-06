@@ -1,4 +1,4 @@
-package com.codepractice.leetcode.reverseinteger;
+package com.codepractice.leetcode.easy.reverseinteger;
 
 //Given a 32-bit signed integer, reverse digits of an integer.
 //

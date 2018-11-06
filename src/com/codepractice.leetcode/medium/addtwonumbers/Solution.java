@@ -1,4 +1,4 @@
-package com.codepractice.leetcode.addtwonumbers;
+package com.codepractice.leetcode.medium.addtwonumbers;
 
 import java.util.Objects;
 

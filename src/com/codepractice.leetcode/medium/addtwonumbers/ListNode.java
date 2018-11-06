@@ -1,4 +1,4 @@
-package com.codepractice.leetcode.addtwonumbers;
+package com.codepractice.leetcode.medium.addtwonumbers;
 
 class ListNode {
     int val;
